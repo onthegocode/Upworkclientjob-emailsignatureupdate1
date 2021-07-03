@@ -1,4 +1,4 @@
-# Upworkclientjob-emailsignatureupdate1
+# WowCater Account Manager Email Signature
 
 url:https://onthegocode.github.io/Wowcater-emailsignature/
 
